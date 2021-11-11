@@ -2,7 +2,7 @@
 
 ## Habilidades e Competências
 
-<img src="images/logo_java.png" alt="Java" width="40"> <img src="images/logo_python.png" alt="Python" width="40"> <img src="images/logo_cpp.png" alt="C++" width="40"> <img src="images/logo_html5.png" alt="HTML5" width="40"> <img src="images/logo_css" alt="CSS" width="40"> <img src="images/logo_javascript" alt="JavaScript" width="40"> <img src="images/logo_linux.png" alt="Linux" width="40"> <img src="images/logo_bash.png" alt="Bash Script" width="40"> <img src="images/logo_virtualbox.png" alt="Oracle VM Virtualbox" width="40">
+<img src="images/logo_java.png" alt="Java" width="40"> <img src="images/logo_python.png" alt="Python" width="40"> <img src="images/logo_cpp.png" alt="C++" width="40"> <img src="images/logo_html5.png" alt="HTML5" width="30"> <img src="images/logo_css" alt="CSS" width="40"> <img src="images/logo_javascript" alt="JavaScript" width="40"> <img src="images/logo_linux.png" alt="Linux" width="40"> <img src="images/logo_bash.png" alt="Bash Script" width="40"> <img src="images/logo_virtualbox.png" alt="Oracle VM Virtualbox" width="40">
 
 <!--
 
