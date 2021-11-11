@@ -1,8 +1,10 @@
 #### PT-BR
 # Olá! Bem vindo ao meu perfil! 👋😄
+Meu nome é Victor, e sou um estudante de TI no CEFET/RJ.
 
 #### EN-US
 # Hello there! Welcome to my profile! 👋😄
+My name is Victor, and I'm an IT student at CEFET/RJ.
 
 ## Habilidades e Competências // Skills and Proficiencies
 
