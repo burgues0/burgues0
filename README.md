@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## Skills and proficiencies
-
 ### Olá 👋
 
 ## Habilidades e Competências
