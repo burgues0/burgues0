@@ -1,7 +1,7 @@
-###PT-BR
+#### PT-BR
 # Olá! Bem vindo ao meu perfil! 👋😄
 
-###EN-US
+#### EN-US
 # Hello there! Welcome to my profile! 👋😄
 
 ## Habilidades e Competências // Skills and Proficiencies
