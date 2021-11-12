@@ -11,13 +11,13 @@ My main goal in life is to keep studying and operating professionally in the IT 
 
 
 ## Aprendendo Atualmente // Currently Learning
--Java (Intermediário/Avançado)
--Python (Intermediário)
--Android
--Angular 
--Cybersecurity Essentials 
--PHP (Básico)
--PostgreSQL (Básico
+- Java (Intermediário/Avançado)
+- Python (Intermediário)
+- Android
+- Angular 
+- Cybersecurity Essentials 
+- PHP (Básico)
+- PostgreSQL (Básico
 
 ## Habilidades e Competências // Skills and Proficiencies
 
