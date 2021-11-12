@@ -1,10 +1,23 @@
 #### PT-BR
 # Olá! Bem vindo ao meu perfil! 👋😄
-Meu nome é Victor, e sou um estudante de TI no CEFET/RJ.
+Meu nome é Victor, e sou um estudante de TI	🧑‍💻 no CEFET/RJ.
+Tenho como objetivo de vida continuar estudando e atuando profissionalmente na área de TI, principalmente nos setores de Desenvolvimento de Software, Ethical Hacking e Cybersecurity.
+
 
 #### EN-US
 # Hello there! Welcome to my profile! 👋😄
-My name is Victor, and I'm an IT student at CEFET/RJ.
+My name is Victor, and I'm an IT student 🧑‍💻 at CEFET/RJ.
+My main goal in life is to keep studying and operating professionally in the IT area, primarily in Software Development, Ethical Hacking and Cybersecurity.
+
+
+## Aprendendo Atualmente // Currently Learning
+-Java (Intermediário/Avançado)
+-Python (Intermediário)
+-Android
+-Angular 
+-Cybersecurity Essentials 
+-PHP (Básico)
+-PostgreSQL (Básico
 
 ## Habilidades e Competências // Skills and Proficiencies
 
