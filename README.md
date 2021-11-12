@@ -26,7 +26,7 @@ My main goal in life is to keep studying and operating professionally in the IT 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pinheiro-palmeira-3106481b3/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:victordpp@outlook.com)
 
-<img src="images/introduction-to-cybersecurity.png" alt="Cisco CyberSec" width="60">
+<img src="images/introduction-to-cybersecurity.png" alt="Cisco CyberSec" width="100">
 <!--
 
 - 🔭 I’m currently working on ...
