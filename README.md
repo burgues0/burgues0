@@ -25,7 +25,7 @@ My main goal in life is to keep studying and operating professionally in the IT 
 
 ## Stats 📊 
 
-<div align="left">
+<div align="left"> 
   <a href="https://github.com/burgues0">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgues0&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
