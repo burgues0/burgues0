@@ -2,15 +2,14 @@
 My name is Victor, and I'm an IT student 🧑‍💻 at CEFET/RJ.
 My main professional goal is to keep studying new technologies to maintain myself up-to-date, and build my career towards the InfoSec area.
 
+## Skills 🖥️👨‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
+
 ## Currently Learning 📚 👨‍🎓
 - Java (Intermediate/Advanced)
 - Python (Intermediate)
 - Network Security
-- Cybersecurity Essentials 
-
-## Skills and Proficiencies 📃👨‍💻
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
 
 ## Contact Me 📲📧
 
