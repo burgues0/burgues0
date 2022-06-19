@@ -13,7 +13,7 @@ My main professional goal is to keep studying new technologies to maintain mysel
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&card_width=150&theme=radical"/>
 </a>
 <a href="https://github.com/burgues0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgues0&layout=compact&card_width=150&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgues0&layout=compact&card_width=270&theme=radical" />
 </a>
 
 ## Currently Learning 📚 👨‍🎓
