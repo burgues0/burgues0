@@ -1,4 +1,4 @@
-# Hello there! Welcome to my profile! 👋😄
+# Hello there! Welcome to my profile! 👋😁
 My name is Victor, and I'm an IT student 🧑‍💻 at CEFET/RJ.
 
 My main professional goal is to keep studying new technologies to maintain myself up-to-date, and build my career towards the InfoSec area.
