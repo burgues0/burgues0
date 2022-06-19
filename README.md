@@ -4,7 +4,7 @@ My main professional goal is to keep studying new technologies to maintain mysel
 
 ## Skills 🖥️👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev) [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Learning 📚 👨‍🎓
 - Java (Intermediate/Advanced)
