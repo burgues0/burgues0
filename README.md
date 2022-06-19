@@ -1,10 +1,15 @@
 # Hello there! Welcome to my profile! 👋😄
 My name is Victor, and I'm an IT student 🧑‍💻 at CEFET/RJ.
+
 My main professional goal is to keep studying new technologies to maintain myself up-to-date, and build my career towards the InfoSec area.
 
 ## Skills 🖥️👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev) [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
+
+---
+
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Learning 📚 👨‍🎓
 - Java (Intermediate/Advanced)
