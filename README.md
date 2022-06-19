@@ -9,7 +9,7 @@ My main professional goal is to keep studying new technologies to maintain mysel
 
 ---
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&card_width=300&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently Learning 📚 👨‍🎓
 - Java (Intermediate/Advanced)
