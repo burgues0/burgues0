@@ -1,10 +1,12 @@
 <h1 align="center">Hello there! Welcome to my profile! 👋😁</h1>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
+<h3 align="center">My name is Victor 🙋‍♂️</h3>
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 
-- My name is Victor
+
+
 - I'm an IT student 🧑‍💻 at CEFET/RJ.
-- I enjoy studying new technologies to maintain myself up-to-date
-- My professional goal is to build my career towards the InfoSec area.
+- I enjoy studying new technologies to maintain myself up-to-date.
+- My current goal is building my career towards the InfoSec area.
 
 <br><br><br><br><br><br><br><br><br>
 ## Skills 🖥️👨‍💻
