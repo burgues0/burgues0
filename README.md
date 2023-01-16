@@ -1,14 +1,11 @@
-<h1 align="center">Hello there! Welcome to my profile! 👋😁</h1>
-<h3 align="center">My name is Victor 🙋‍♂️</h3>
+### Hello there! I'm Victor - aka Burgues 👋
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 
+## I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an eternal student!
+- I'm currently strenghening my soft skills, as well as studying about General Data Protection Regulation
+- 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Junior Penetration Tester" learning path at [TryHackMe](https://tryhackme.com/paths)
+- Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
 
-
-- I'm an IT student 🧑‍💻 at CEFET/RJ.
-- I enjoy studying new technologies to maintain myself up-to-date.
-- My current goal is building my career towards the InfoSec area.
-
-<br><br><br><br><br><br><br><br><br>
 ## Skills 🖥️👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
