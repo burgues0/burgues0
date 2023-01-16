@@ -1,4 +1,4 @@
-# Hello there! I'm *Victor* - aka Burgues 👋
+### Hello there! I'm *Victor* - aka Burgues 👋
 
 ## I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an Eternal student!
 - I'm currently strengthening my soft skills, as well as studying about General Data Protection Regulation
