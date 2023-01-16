@@ -19,9 +19,10 @@
 </a>
 
 ### Currently Learning 📚 👨‍🎓 🌱
-- Java (Intermediate/Advanced)
-- Python (Intermediate)
+- Pentesting Fundamentals
+- OWASP Top 10
 - Network Security
+- Python (Advanced)
 
 ## Contact Me 📲📧📫
 
