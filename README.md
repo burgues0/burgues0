@@ -1,6 +1,6 @@
 # Hello there! I'm *Victor* - aka Burgues 👋
 
-## I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an eternal student!
+## I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an Eternal student!
 - I'm currently strengthening my soft skills, as well as studying about General Data Protection Regulation
 - 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Junior Penetration Tester" learning path at [TryHackMe](https://tryhackme.com/paths)
 - Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
@@ -8,7 +8,7 @@
 ## Github Stats
 
 <a href="https://github.com/burgues0">
-<img align="center" src="https://github-readme-stats-burgues0.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&card_width=150&theme=radical"/>
+<img align="center" src="https://github-readme-stats-burgues0.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&card_width=150&theme=transparent"/>
 </a>
 <a href="https://github.com/burgues0">
   <img align="center" src="https://github-readme-stats-burgues0.vercel.app/api/top-langs/?username=burgues0&layout=compact&card_width=290&theme=radical" />
