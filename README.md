@@ -5,7 +5,7 @@
 - 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Junior Penetration Tester" learning path at [TryHackMe](https://tryhackme.com/paths)
 - Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
 
-### Skills 🖥️👨‍💻
+## Skills 🖥️👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
 
@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burgues0&layout=compact&card_width=290&theme=radical" />
 </a>
 
-### Currently Learning 📚 👨‍🎓 🌱
+## Currently Learning 📚 👨‍🎓 🌱
 - Pentesting Fundamentals
 - OWASP Top 10
 - Network Security
