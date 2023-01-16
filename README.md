@@ -5,7 +5,7 @@
 - 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Junior Penetration Tester" learning path at [TryHackMe](https://tryhackme.com/paths)
 - Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
 
-## Github Stats
+## Github Stats 📊
 
 <a href="https://github.com/burgues0">
 <img align="center" src="https://github-readme-stats-burgues0.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&theme=transparent&card_width=490"/>
