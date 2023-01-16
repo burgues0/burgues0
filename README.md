@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
 
-## Currently Learning 📚 👨‍🎓 🌱
+## Currently Learning 📚 👨‍🎓 
 - Pentesting Fundamentals
 - OWASP Top 10
 - Network Security
