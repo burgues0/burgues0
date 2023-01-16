@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats-burgues0.vercel.app/api/top-langs/?username=burgues0&layout=compact&theme=transparent" />
 </a>
 
-<br><br>
+<br>
 
 ## Skills 🖥️👨‍💻
 
