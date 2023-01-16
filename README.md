@@ -8,7 +8,7 @@
 ## Github Stats
 
 <a href="https://github.com/burgues0">
-<img align="center" src="https://github-readme-stats-burgues0.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&theme=transparent&card_width=200"/>
+<img align="center" src="https://github-readme-stats-burgues0.vercel.app/api?username=burgues0&count_private=true&show_icons=true&hide_title=true&theme=transparent&card_width=280"/>
 </a>
 <a href="https://github.com/burgues0">
   <img align="center" src="https://github-readme-stats-burgues0.vercel.app/api/top-langs/?username=burgues0&layout=compact&theme=transparent" />
