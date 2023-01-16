@@ -1,5 +1,4 @@
 ### Hello there! I'm Victor - aka Burgues 👋
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 
 ## I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an eternal student!
 - I'm currently strenghening my soft skills, as well as studying about General Data Protection Regulation
