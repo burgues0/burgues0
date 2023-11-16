@@ -1,6 +1,6 @@
 # Hello there! I'm *Victor* - aka Burgues 👋
 
-### I'm a Python & Django Fullstack Developer, Cybersecurity enthusiast and an Eternal student!
+### I'm a Cybersecurity enthusiast and an Eternal student!
 - I'm currently strengthening my soft skills, as well as studying about General Data Protection Regulation
 - 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Practical Ethical Hacking" course at [TCM Academy](https://academy.tcm-sec.com/)
 - Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
