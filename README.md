@@ -10,11 +10,11 @@
 - Google Cybersecurity Professional by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
 
 ## Cybersecurity Projects
-- [Azure Sentinel SIEM]()
+- [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 
 ## Software Development Projects
-- [Distroset]()
-- [Subnetsh]()
+- [Distroset](https://github.com/burgues0/distroset)
+- [Subnetsh](https://github.com/burgues0/subnetsh)
 
 ## Github Stats 📊
 
