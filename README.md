@@ -17,8 +17,8 @@
 
 ## Currently Learning
 - SOC Analyst Path at [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path)
-- Practical Ethical Hacker course by [TCM Security](https://academy.tcm-sec.com/)
-- Google Cybersecurity Professional course by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+- Practical Ethical Hacker by [TCM Security](https://academy.tcm-sec.com/)
+- Google Cybersecurity Professional by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
 
 ## Contact Me 📲📧
 
