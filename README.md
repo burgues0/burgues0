@@ -15,10 +15,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
 
-## Currently Learning 📚 👨‍🎓 
+## Currently Learning
 - SOC Analyst Path at [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path)
 - Practical Ethical Hacker course by [TCM Security](https://academy.tcm-sec.com/)
-- Google Cybersecurity Professional course by [Google]()
+- Google Cybersecurity Professional course by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
 
 ## Contact Me 📲📧
 
