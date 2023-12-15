@@ -1,15 +1,4 @@
-# Hello there! I'm *Victor* - aka burgues0 👋
-
-### I'm a Cybersecurity enthusiast and an Eternal student!
-- Placeholder
-- Placeholder
-- Fun fact: I love going for hikes and trails 🌄🗻
-
-## Github Stats 📊
-
-//not working right now, I'll fix this later :)
-
-<br>
+# Hi! I'm *Victor* - aka burgues0 👋
 
 ## Skills 🖥️👨‍💻
 
@@ -19,6 +8,20 @@
 - SOC Analyst Path at [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path)
 - Practical Ethical Hacker by [TCM Security](https://academy.tcm-sec.com/)
 - Google Cybersecurity Professional by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+
+## Cybersecurity Projects
+- [Azure Sentinel SIEM]()
+
+## Software Development Projects
+- [Distroset]()
+- [Subnetsh]()
+
+## Github Stats 📊
+
+//not working right now, I'll fix this later :)
+
+<br>
+
 
 ## Contact Me 📲📧
 
