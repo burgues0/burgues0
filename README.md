@@ -1,9 +1,9 @@
-# Hello there! I'm *Victor* - aka Burgues 👋
+# Hello there! I'm *Victor* - aka burgues0 👋
 
 ### I'm a Cybersecurity enthusiast and an Eternal student!
-- I'm currently strengthening my soft skills, as well as studying about General Data Protection Regulation
-- 2023 Goals: Get a job as a Junior CyberSec Analyst | Complete "Practical Ethical Hacking" course at [TCM Academy](https://academy.tcm-sec.com/)
-- Fun fact: I love gaming 🎮, cooking 🍚 and going for hikes/trails 🌄🗻
+- Placeholder
+- Placeholder
+- Fun fact: I love going for hikes and trails 🌄🗻
 
 ## Github Stats 📊
 
@@ -13,13 +13,12 @@
 
 ## Skills 🖥️👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,linux,bash,html,css,js,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
 
 ## Currently Learning 📚 👨‍🎓 
-- Pentesting Fundamentals
-- OWASP Top 10
-- Network Security
-- Python (Advanced)
+- SOC Analyst Path at [LetsDefend]()
+- Practical Ethical Hacker course by [TCM Security]()
+- Google Cybersecurity Professional course by [Google]()
 
 ## Contact Me 📲📧
 
