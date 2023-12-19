@@ -13,7 +13,6 @@
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 
 ## Software Development Projects
-- [Distroset](https://github.com/burgues0/distroset)
 - [Subnetsh](https://github.com/burgues0/subnetsh)
 
 ## Github Stats 📊
