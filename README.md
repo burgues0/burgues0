@@ -12,9 +12,6 @@
 ## Cybersecurity Projects
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 
-## Software Development Projects
-- [Subnetsh](https://github.com/burgues0/subnetsh)
-
 ## Github Stats 📊
 
 //not working right now, I'll fix this later :)
