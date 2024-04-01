@@ -10,9 +10,7 @@
 
 ## Github Stats 📊
 
-<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=burgues0"/>
-
-<br>
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=burgues0&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
 ## Skills 🖥️👨‍💻
 
