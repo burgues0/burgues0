@@ -14,7 +14,7 @@
 
 ## Github Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0)](https://github.com/anuraghazra/github-readme-stats)
+[My Stats](https://github-readme-stats.vercel.app/api?username=burgues0)
 
 <br>
 
