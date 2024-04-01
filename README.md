@@ -14,7 +14,7 @@
 
 ## Github Stats 📊
 
-[My Stats](https://github-readme-stats.vercel.app/api?username=burgues0)
+<img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=burgues0"/>
 
 <br>
 
