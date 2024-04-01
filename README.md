@@ -16,7 +16,7 @@
 
 ## Skills 🖥️👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell)](https://skillicons.dev)
 
 ## Contact Me 📲📧
 
