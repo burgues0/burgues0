@@ -5,16 +5,16 @@
 [![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
 
 ## Currently Learning
-- SOC Analyst Path at [LetsDefend](https://app.letsdefend.io/path/soc-analyst-learning-path)
 - Practical Ethical Hacker by [TCM Security](https://academy.tcm-sec.com/)
-- Google Cybersecurity Professional by [Google](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+- Security+ courses by Dion Training
+- Network+ courses by Dion Training
 
 ## Cybersecurity Projects
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 
 ## Github Stats 📊
 
-//not working right now, I'll fix this later :)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burgues0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
