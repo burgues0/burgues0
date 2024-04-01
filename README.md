@@ -1,9 +1,5 @@
 # Hi! I'm *Victor* - aka burgues0 👋
 
-## Skills 🖥️👨‍💻
-
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
-
 ## Currently Learning
 - Practical Ethical Hacker by [TCM Security](https://academy.tcm-sec.com/)
 - Security+ courses by Dion Training
@@ -18,6 +14,9 @@
 
 <br>
 
+## Skills 🖥️👨‍💻
+
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,powershell,java,cpp,django,mysql)](https://skillicons.dev)
 
 ## Contact Me 📲📧
 
