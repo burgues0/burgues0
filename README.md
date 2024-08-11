@@ -9,6 +9,7 @@
 ## Personal Projects
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 - [Dotfiles - Personal Archlinux Configurations](https://github.com/burgues0/dotfiles)
+- [mdtable.sh](https://github.com/burgues0/mdtable)
 
 ## Github Stats 📊
 
