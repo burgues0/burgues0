@@ -1,10 +1,7 @@
 # Hello :)
 
 ## Currently Learning
-- Junior Cybersecurity Analyst Path by Cisco
-- Microsoft SC-900 Certification Training
-- Security+ courses by Dion Training
-- Network+ courses by Dion Training
+- a bunch of stuff
 
 ## Personal Projects
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
