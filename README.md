@@ -1,8 +1,3 @@
-# Hello :)
-
-## Currently Learning
-- a bunch of stuff
-
 ## Personal Projects
 - [Azure Sentinel SIEM](https://github.com/burgues0/azure-soc-honeypot)
 - [Dotfiles - Personal Archlinux Configurations](https://github.com/burgues0/dotfiles)
